@@ -1,6 +1,6 @@
 Bienvenue dans le projet GSR
 
-Ce projet a été effectuer par le binome Yosra Naceur.
+Ce projet a été effectuer par Yosra Naceur.
 ---------------------------------------------------------------------------------------------------
 Pour commencer, cliquer sur le FirstPage.html
 
